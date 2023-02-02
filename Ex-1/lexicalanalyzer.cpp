@@ -25,7 +25,7 @@ bool isKeyword(string a)
 int main()
 {
 
-    std::ifstream file("prog.txt");
+    std::ifstream file("test_code.txt");
     std::string x;
     string code = "";
     while (std::getline(file, x))
