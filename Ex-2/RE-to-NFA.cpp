@@ -56,3 +56,4 @@ int main()
     std::cout << "Final State: " << nfa.final_state << std::endl;
     return 0;
 }
+
