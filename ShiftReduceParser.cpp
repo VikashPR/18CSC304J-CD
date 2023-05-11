@@ -69,3 +69,7 @@ int main()
     else
         cout << "\nstring rejected\n";
 }
+
+
+// Sample Input:
+// a+a*a
