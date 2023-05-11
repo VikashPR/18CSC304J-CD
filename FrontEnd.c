@@ -85,4 +85,6 @@ void small()
     exit(0);
 }
 
+// Sample Input
+
 // a=b+c-d
