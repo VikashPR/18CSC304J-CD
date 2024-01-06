@@ -1,4 +1,8 @@
-# Compiler-Design-Lab
+# 18CSC304J-COMPILER-DESIGN-LAB
+[![Hits](https://hits.sh/github.com/VikashPR/18CSC304J-CD.svg?extraCount=2700)](https://hits.sh/github.com/VikashPR/18CSC304J-CD/)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 | S.No | Experiment Name | Link | 
 | --- | --- | --- |
